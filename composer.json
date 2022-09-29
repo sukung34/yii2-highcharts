@@ -1,6 +1,6 @@
 {
 	"name": "sukung34/yii2-highcharts",
-	"description": "Highcharts widget for Yii 2 Framework. Folk from miloschuman.",
+	"description": "Highcharts widget for Yii 2 Framework. Folk from miloschuman. (Just for upgrade lib)",
 	"keywords": ["yii2", "extension", "widget", "highcharts", "highstock", "highmaps"],
 	"homepage": "https://github.com/miloschuman/yii2-highcharts",
 	"type": "yii2-extension",
